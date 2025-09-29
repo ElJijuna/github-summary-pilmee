@@ -1,0 +1,8 @@
+{
+  "name": "github-summary",
+  "description": "extension to add multiple github accounts to see the contribution summary of said accounts",
+  "uuid": "github-summary@pilmee",
+  "shell-version": [
+    "48"
+  ]
+}
