@@ -1,8 +1,1 @@
-{
-  "name": "github-summary",
-  "description": "extension to add multiple github accounts to see the contribution summary of said accounts",
-  "uuid": "github-summary@pilmee",
-  "shell-version": [
-    "48"
-  ]
-}
+{"name":"Github Summary","uuid":"github-summary@pilmee","description":"Extension to add multiple github accounts to see the contribution summary of said accounts","url":"https://github.com/ElJijuna/github-summary-pilmee#readme","settings-schema":"github-summary@pilmee","gettext-domain":"github-summary@pilmee","version-name":"1.0.0","shell-versions":[48,49]}
